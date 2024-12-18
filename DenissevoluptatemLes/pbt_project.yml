@@ -1,0 +1,49 @@
+name: jacquetta.medhurst
+description: Optional
+version: 0.0.1
+author: wggguctg.iz6iex2i@ra15qsdl.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jacquettamedhurst
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-18 21:01:13'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-18 21:01:13'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-18T21:01:13.311251Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '1499534922'
+  createdAt: '2024-12-18T21:01:13.311251Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
